@@ -9,7 +9,7 @@ public class CalcTest {
     @Test
     public void testAdd() {
         Calc calc = new Calc();
-        assertEquals(calc.add(2, 3), 5);
+        assertEquals(calc.add(2, 3), 35);
     }
 
 }
