@@ -15,7 +15,7 @@ public class CalcTest {
     @Test
     public void testSub() {
       Calc calc = new Calc();
-      assertEquals(calc.sub(4, 2), 3);
+      assertEquals(calc.sub(5, 2), 3);
     }
 
 }
