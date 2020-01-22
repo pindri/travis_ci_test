@@ -12,4 +12,9 @@ public class CalcTest {
         assertEquals(calc.add(2, 3), 5);
     }
 
+    @Test
+    public void testSub() {
+      Calc calc = new Calc();
+      assertEquals(calc.sub(4, 2), 3);
+
 }
