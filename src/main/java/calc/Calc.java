@@ -1,4 +1,4 @@
-package dssc.calc;
+package main.calc;
 
 public class Calc {
     public static int add(int a, int b) {
