@@ -4,3 +4,4 @@ out/
 .attach_pid*
 .idea/
 .gradle/
+build/
