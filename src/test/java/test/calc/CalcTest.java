@@ -1,7 +1,7 @@
 package test.calc;
 
-import main.calc.*;
 import org.junit.Test;
+import dssc.calc.*;
 
 import static org.junit.Assert.*;
 
